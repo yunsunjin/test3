@@ -3,5 +3,11 @@ public class Main {
         System.out.println("Gitコネクト");
         System.out.println("バージョン２だお");
         System.out.println("賢治バージョン");
+
+
+
+        for (int i = 1; i < 100 ; i++) {
+            System.out.println("羊が"+i+"ひき");
+        }
     }
 }
